@@ -35,8 +35,8 @@ const aboutMe = {
 <table width="320">
   <tbody>
     <tr height="80">
-      <td width="80" align="center">
-        <span valign="top"><strong>Javascript</strong></span><br>
+      <td width="80" align="center" valign="top">
+        <span><strong>Javascript</strong></span><br>
         <img valign="bottom" height="32" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       </td>
       <td width="80" align="center">
