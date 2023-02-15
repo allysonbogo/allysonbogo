@@ -34,7 +34,7 @@ const aboutMe = {
 <h3 align="left">Technologies and tools:</h3>
 <table width="320">
   <tbody>
-    <tr height="80" display="flex" valign="space around">
+    <tr height="80">
       <td width="80" align="center">
         <span><strong>Javascript</strong></span><br>
         <img height="32" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
