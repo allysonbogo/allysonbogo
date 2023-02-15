@@ -36,19 +36,19 @@ const aboutMe = {
   <tbody>
     <tr height="80">
       <td width="80" align="center">
-        <span line-height="24"><strong>Javascript</strong></span><br>
+        <p line-height="24"><strong>Javascript</strong></p>
         <img height="32" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       </td>
       <td width="80" align="center">
-        <span line-height="24"><strong>HTML</strong></span><br>
+        <p line-height="24"><strong>HTML</strong></p>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>CSS</strong></span><br>
+        <p><strong>CSS</strong></p>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>React</strong></span><br>
+        <p><strong>React</strong></p>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       </td>
     </tr>
