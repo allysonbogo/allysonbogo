@@ -37,7 +37,7 @@ const aboutMe = {
     <tr height="80">
       <td width="80" align="center" valign="top">
         <span><strong>Javascript</strong></span><br>
-        <img valign="bottom" height="32" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+        <img margin-top="4px" height="32" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       </td>
       <td width="80" align="center">
         <span><strong>HTML</strong></span><br>
