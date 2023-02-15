@@ -34,7 +34,7 @@ const aboutMe = {
 <h3 align="left">Technologies and tools:</h3>
 <table width="320">
   <tbody>
-    <tr valign="center" height="80">
+    <tr valign="space around" height="80">
       <td width="80" align="center">
         <span><strong>Javascript</strong></span><br>
         <img height="32" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
@@ -52,58 +52,58 @@ const aboutMe = {
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       </td>
     </tr>
-    <tr valign="center" height="80">
+    <tr valign="space around" height="80">
       <td width="80" align="center">
-        <span><strong>Jest</strong></span><br><br>
+        <span><strong>Jest</strong></span><br>
         <img height="32" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>RTL</strong></span><br><br>
+        <span><strong>RTL</strong></span><br>
         <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
       </td>
       <td width="80" align="center">
-        <span><strong>Git</strong></span><br><br>
+        <span><strong>Git</strong></span><br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>GitHub</strong></span><br><br>
+        <span><strong>GitHub</strong></span><br>
         <img height="32" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
       </td>
     </tr>
-    <tr valign="center" height="80">
+    <tr valign="space around" height="80">
       <td width="80" align="center">
-        <span><strong>Redux</strong></span><br><br>
+        <span><strong>Redux</strong></span><br>
         <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>Figma</strong></span><br><br>
+        <span><strong>Figma</strong></span><br>
         <img height="32" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>ESLint</strong></span><br><br>
+        <span><strong>ESLint</strong></span><br>
         <img height="32" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>Bootstrap</strong></span><br><br>
+        <span><strong>Bootstrap</strong></span><br>
         <img height="32" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
       </td>
     </tr>
 <!--
-    <tr valign="center" height="80">
+    <tr valign="space around" height="80">
       <td width="80" align="center">
-        <span><strong>PHP</strong></span><br><br>
+        <span><strong>PHP</strong></span><br>
         <img height="32" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>Mysql</strong></span><br><br>
+        <span><strong>Mysql</strong></span><br>
         <img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>Node</strong></span><br><br>
+        <span><strong>Node</strong></span><br>
         <img height="32" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
       </td>
       <td width="80" align="center">
-        <span><strong>Trello</strong></span><br><br>
+        <span><strong>Trello</strong></span><br>
         <img height="32" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
       </td>
     </tr>
