@@ -34,20 +34,20 @@ const aboutMe = {
 <h3 align="left">Technologies and tools:</h3>
 <table width="320">
   <tbody>
-    <tr height="80">
-      <td width="70" align="center" valign="top">
+    <tr height="70" valign="top">
+      <td width="80" align="center">
         <span><strong>Javascript</strong></span><br>
         <img height="32" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       </td>
-      <td width="70" align="center">
+      <td width="80" align="center">
         <span><strong>HTML</strong></span><br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       </td>
-      <td width="70" align="center">
+      <td width="80" align="center">
         <span><strong>CSS</strong></span><br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       </td>
-      <td width="70" align="center">
+      <td width="80" align="center">
         <span><strong>React</strong></span><br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       </td>
