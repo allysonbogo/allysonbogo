@@ -1,6 +1,6 @@
-<img src="images/Greetings.gif" alt="Greetings Banner" />
+<img src="images/Greetings.gif" alt="Greetings Banner" /><hr>
 
-<img src="images/Pokemon.gif" alt="Pokemon Avatar"  align="right" width="360px" />
+<img src="images/Pokemon.gif" alt="Pokemon Avatar"  align="right" width="200px" />
 
 ```js
 const aboutMe = {
