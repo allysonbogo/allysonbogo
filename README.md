@@ -1,4 +1,4 @@
-<img src="images/Greetings.gif" alt="Greetings Banner" height="80"/><hr>
+<img align="center" height="64" src="images/Greetings.gif" alt="Greetings Banner" /><hr>
 
 <img src="images/Pokemon.gif" alt="Pokemon Avatar"  align="right" width="200px" />
 
