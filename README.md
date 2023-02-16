@@ -37,17 +37,16 @@ const aboutMe = {
 <a href="https://github.com/allysonbogo" title="JavaScript"><img height="50" src="icons/JavaScript.svg"></a>
 <a href="https://github.com/allysonbogo" title="HTML"><img height="50" src="icons/HTML.svg"></a>
 <a href="https://github.com/allysonbogo" title="CSS"><img height="50" src="icons/CSS.svg"></a>
+<a href="https://github.com/allysonbogo" title="Bootstrap"><img height="50" src="icons/Bootstrap.svg"></a>
+<a href="https://github.com/allysonbogo" title="ESLint"><img height="50" src="icons/ESLint.png"></a>
+<a href="https://github.com/allysonbogo" title="Figma"><img height="50" src="icons/Figma-Dark.svg"></a>
+
 <a href="https://github.com/allysonbogo" title="React"><img height="50" src="icons/React.svg"></a>
-
-<a title="Jest"><img height="50" src="icons/Jest.svg"></a>
-<a title="RTL"><img height="50" src="icons/RTL.png"></a>
-<a title="Git"><img height="50" src="icons/Git.svg"></a>
-<a title="GitHub"><img height="50" src="icons/Github-Dark.svg"></a>
-
-<a title="Redux"><img height="50" src="icons/Redux.svg"></a>
-<a title="Figma"><img height="50" src="icons/Figma-Dark.svg"></a>
-<a title="ESLint"><img height="50" src="icons/ESLint.png"></a>
-<a title="Bootstrap"><img height="50" src="icons/Bootstrap.svg"></a>
+<a href="https://github.com/allysonbogo" title="Redux"><img height="50" src="icons/Redux.svg"></a>
+<a href="https://github.com/allysonbogo" title="Jest"><img height="50" src="icons/Jest.svg"></a>
+<a href="https://github.com/allysonbogo" title="RTL"><img height="50" src="icons/RTL.png"></a>
+<a href="https://github.com/allysonbogo" title="Git"><img height="50" src="icons/Git.svg"></a>
+<a href="https://github.com/allysonbogo" title="GitHub"><img height="50" src="icons/Github-Dark.svg"></a>
 
 <!--
     <tr>
