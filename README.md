@@ -19,7 +19,7 @@ const aboutMe = {
 };
 ```
 
-- 📖 I’m currently a studying **Full Stack Web Development** at **Trybe**
+- 📖 I’m currently studying **Full Stack Web Development** at **Trybe**
 
 - 📫 Fell free to contact me at **ab.bogo@gmail.com**
 
