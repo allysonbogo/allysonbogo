@@ -34,20 +34,20 @@ const aboutMe = {
 
 <h3 align="left">Technologies and tools:</h3>
 
-<a alt="JavaScript"><img height="50" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></a>
-<a title="HTML"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"></a>
-<a title="CSS"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-<a title="React"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
+<a href="https://github.com/allysonbogo" title="JavaScript"><img height="50" src="icons/JavaScript.svg"></a>
+<a href="https://github.com/allysonbogo" title="HTML"><img height="50" src="icons/HTML.svg"></a>
+<a href="https://github.com/allysonbogo" title="CSS"><img height="50" src="icons/CSS.svg"></a>
+<a href="https://github.com/allysonbogo" title="React"><img height="50" src="icons/React.svg"></a>
 
-<a title="Jest"><img height="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></a>
-<a title="RTL"><img height="50" src="https://testing-library.com/img/octopus-128x128.png"></a>
-<a title="Git"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></a>
-<a title="GitHub"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>
+<a title="Jest"><img height="50" src="icons/Jest.svg"></a>
+<a title="RTL"><img height="50" src="icons/RTL.png"></a>
+<a title="Git"><img height="50" src="icons/Git.svg"></a>
+<a title="GitHub"><img height="50" src="icons/Github-Dark.svg"></a>
 
-<a title="Redux"><img height="50" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></a>
-<a title="Figma"><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
-<a title="ESLint"><img height="50" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"></a>
-<a title="Bootstrap"><img height="50" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"></a>
+<a title="Redux"><img height="50" src="icons/Redux.svg"></a>
+<a title="Figma"><img height="50" src="icons/Figma-Dark.svg"></a>
+<a title="ESLint"><img height="50" src="icons/ESLint.png"></a>
+<a title="Bootstrap"><img height="50" src="icons/Bootstrap.svg"></a>
 
 <!--
     <tr>
