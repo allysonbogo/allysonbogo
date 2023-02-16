@@ -1,4 +1,4 @@
-<img src="images/Greetings.gif" alt="Greetings Banner" /><hr>
+<img src="images/Greetings.gif" alt="Greetings Banner" height="80"/><hr>
 
 <img src="images/Pokemon.gif" alt="Pokemon Avatar"  align="right" width="200px" />
 
@@ -53,7 +53,7 @@ const aboutMe = {
 <h3 align="left">Stats</h3>
 
 <a href="https://github.com/allysonbogo">
-  <img height="12rem" src="https://github-readme-stats.vercel.app/api?username=allysonbogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonbogo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="12rem" src="https://github-readme-stats.vercel.app/api?username=allysonbogo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonbogo&layout=compact&langs_count=7&theme=algolia"/>
 </a>
 -->
