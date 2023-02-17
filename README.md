@@ -18,10 +18,11 @@ const aboutMe = {
   ],
 };
 ```
-
+<hr>
 - 📖 I’m currently studying **Full Stack Web Development** at **Trybe**
 
 - 📫 Fell free to contact me at **ab.bogo@gmail.com**
+<hr>
 
 <h3 align="left">Where to find me?</h3>
 
@@ -29,7 +30,7 @@ const aboutMe = {
   <a href="https://linkedin.com/in/allysonbogo" title="LinkedIn"><img height="50" src="icons/LinkedIn.svg"></a>
   <a href="https://fb.com/allysonbogo" title="Facebook"><img height="50" src="icons/Facebook.svg"></a>
   <a href="https://www.instagram.com/bogoallyson" title="Instagram"><img height="50" src="icons/Instagram.svg"></a>
-</p>  
+</p><hr>
 
 <h3 align="left">My toolbox</h3>
 
