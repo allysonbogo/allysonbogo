@@ -1,8 +1,8 @@
 <p align="center">
-  <img height="72" src="images/Greetings.gif" alt="Greetings Banner" /><hr>
+  <img height="4.5rem" src="images/Greetings.gif" alt="Greetings Banner" /><hr>
 </p>
 
-<img src="images/Pokemon.gif" alt="Pokemon Avatar"  align="right" width="200px" />
+<img src="images/Pokemon.gif" alt="Pokemon Avatar"  align="right" width="12rem" />
 
 ```js
 const aboutMe = {
