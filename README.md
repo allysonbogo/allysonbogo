@@ -19,9 +19,11 @@ const aboutMe = {
 };
 ```
 <hr>
+
 - 📖 I’m currently studying **Full Stack Web Development** at **Trybe**
 
 - 📫 Fell free to contact me at **ab.bogo@gmail.com**
+
 <hr>
 
 <h3 align="left">Where to find me?</h3>
