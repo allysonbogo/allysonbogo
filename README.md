@@ -2,7 +2,7 @@
   <img height="45rem" src="images/Greetings.gif" alt="Greetings Banner" /><hr>
 </p>
 
-<img src="images/Pokemon.gif" alt="Pokemon Avatar"  align="right" heigth="20rem" />
+<img src="images/Pokemon.gif" alt="Pokemon Avatar"  align="right" height="20rem" />
 
 ```js
 const aboutMe = {
