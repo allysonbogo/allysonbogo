@@ -36,7 +36,7 @@ const aboutMe = {
 
 <h3 align="left">My toolbox</h3>
 
-<span width="100" align-self="center">- coding:<span>
+<p>- coding:<p>
 <a href="https://github.com/allysonbogo" title="JavaScript"><img height="50" src="icons/JavaScript.svg"></a>
 <a href="https://github.com/allysonbogo" title="HTML"><img height="50" src="icons/HTML.svg"></a>
 <a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/NodeJS-Dark.svg"></a>
@@ -44,7 +44,7 @@ const aboutMe = {
 <a href="https://github.com/allysonbogo" title="ESLint"><img height="50" src="icons/ESLint.png"></a>
 <a href="https://github.com/allysonbogo" title="VSCode"><img height="50" src="icons/VSCode-Dark.svg"></a>
 
-<span width="100" align-self="center">- styling:<span>
+<p>- styling:<p>
 <a href="https://github.com/allysonbogo" title="CSS"><img height="50" src="icons/CSS.svg"></a>
 <a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/Bootstrap.svg"></a>
 <a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/TailwindCSS-Dark.svg"></a>
