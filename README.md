@@ -36,22 +36,31 @@ const aboutMe = {
 
 <h3 align="left">My toolbox</h3>
 
+- coding:
 <a href="https://github.com/allysonbogo" title="JavaScript"><img height="50" src="icons/JavaScript.svg"></a>
 <a href="https://github.com/allysonbogo" title="HTML"><img height="50" src="icons/HTML.svg"></a>
-<a href="https://github.com/allysonbogo" title="CSS"><img height="50" src="icons/CSS.svg"></a>
+<a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/NodeJS-Dark.svg"></a>
 <a href="https://github.com/allysonbogo" title="React"><img height="50" src="icons/React-Dark.svg"></a>
+<a href="https://github.com/allysonbogo" title="ESLint"><img height="50" src="icons/ESLint.png"></a>
 <a href="https://github.com/allysonbogo" title="VSCode"><img height="50" src="icons/VSCode-Dark.svg"></a>
 
+- styling:
+<a href="https://github.com/allysonbogo" title="CSS"><img height="50" src="icons/CSS.svg"></a>
+<a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/Bootstrap.svg"></a>
+<a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/TailwindCSS-Dark.svg"></a>
+
+- testing:
 <a href="https://github.com/allysonbogo" title="Jest"><img height="50" src="icons/Jest.svg"></a>
 <a href="https://github.com/allysonbogo" title="RTL"><img height="50" src="icons/RTL.png"></a>
-<a href="https://github.com/allysonbogo" title="Bootstrap"><img height="50" src="icons/Bootstrap.svg"></a>
-<a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/TailwindCSS-Dark.svg"></a>
-<a href="https://github.com/allysonbogo" title="ESLint"><img height="50" src="icons/ESLint.png"></a>
 
-<a href="https://github.com/allysonbogo" title="Git"><img height="50" src="icons/Git.svg"></a>
-<a href="https://github.com/allysonbogo" title="GitHub"><img height="50" src="icons/Github-Dark.svg"></a>
+- designing:
 <a href="https://github.com/allysonbogo" title="Figma"><img height="50" src="icons/Figma-Dark.svg"></a>
 <a href="https://github.com/allysonbogo" title="Photoshop"><img height="50" src="icons/Photoshop.svg"></a>
+<a href="https://github.com/allysonbogo" title="Photoshop"><img height="50" src="icons/CorelDraw.png"></a>
+
+- teaming:
+<a href="https://github.com/allysonbogo" title="Git"><img height="50" src="icons/Git.svg"></a>
+<a href="https://github.com/allysonbogo" title="GitHub"><img height="50" src="icons/Github-Dark.svg"></a>
 <a href="https://github.com/allysonbogo" title="Trello"><img height="50" src="icons/Trello.svg"></a>
 
 <!--
