@@ -36,17 +36,15 @@ const aboutMe = {
 
 <h3 align="left">My toolbox</h3>
 
-<div width="15%" valign="center">- coding:</div>
-<div>
+<div>● coding:</div>
   <a href="https://github.com/allysonbogo" title="JavaScript"><img height="50" src="icons/JavaScript.svg"></a>
   <a href="https://github.com/allysonbogo" title="HTML"><img height="50" src="icons/HTML.svg"></a>
   <a href="https://github.com/allysonbogo" title="NodeJS"><img height="50" src="icons/NodeJS-Dark.svg"></a>
   <a href="https://github.com/allysonbogo" title="React"><img height="50" src="icons/React-Dark.svg"></a>
   <a href="https://github.com/allysonbogo" title="ESLint"><img height="50" src="icons/ESLint.png"></a>
   <a href="https://github.com/allysonbogo" title="VSCode"><img height="50" src="icons/VSCode-Dark.svg"></a>
-</div>
 
-<div width="15%" align="center">- styling:</div>
+<div>● styling:</div>
 <a href="https://github.com/allysonbogo" title="CSS"><img height="50" src="icons/CSS.svg"></a>
 <a href="https://github.com/allysonbogo" title="Bootstrap"><img height="50" src="icons/Bootstrap.svg"></a>
 <a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/TailwindCSS-Dark.svg"></a>
