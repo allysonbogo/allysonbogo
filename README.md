@@ -36,7 +36,7 @@ const aboutMe = {
 
 <h3 align="left">My toolbox</h3>
 
-<div>● coding:</div>
+<div>Coding:</div>
   <a href="https://github.com/allysonbogo" title="JavaScript"><img height="50" src="icons/JavaScript.svg"></a>
   <a href="https://github.com/allysonbogo" title="HTML"><img height="50" src="icons/HTML.svg"></a>
   <a href="https://github.com/allysonbogo" title="NodeJS"><img height="50" src="icons/NodeJS-Dark.svg"></a>
@@ -44,21 +44,21 @@ const aboutMe = {
   <a href="https://github.com/allysonbogo" title="ESLint"><img height="50" src="icons/ESLint.png"></a>
   <a href="https://github.com/allysonbogo" title="VSCode"><img height="50" src="icons/VSCode-Dark.svg"></a>
 
-<div>● styling:</div>
+<div>Styling:</div>
 <a href="https://github.com/allysonbogo" title="CSS"><img height="50" src="icons/CSS.svg"></a>
 <a href="https://github.com/allysonbogo" title="Bootstrap"><img height="50" src="icons/Bootstrap.svg"></a>
 <a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/TailwindCSS-Dark.svg"></a>
 
-<p>- testing:</p>
+<div>Testing:</div>
 <a href="https://github.com/allysonbogo" title="Jest"><img height="50" src="icons/Jest.svg"></a>
 <a href="https://github.com/allysonbogo" title="RTL"><img height="50" src="icons/RTL.png"></a>
 
-<p>- designing:</p>
+<div>Designing:</div>
 <a href="https://github.com/allysonbogo" title="Figma"><img height="50" src="icons/Figma-Dark.svg"></a>
 <a href="https://github.com/allysonbogo" title="Photoshop"><img height="50" src="icons/Photoshop.svg"></a>
 <a href="https://github.com/allysonbogo" title="CorelDraw"><img height="50" src="icons/CorelDraw.png"></a>
 
-<p>- teaming:</p>
+<div>Teaming:</div>
 <a href="https://github.com/allysonbogo" title="Git"><img height="50" src="icons/Git.svg"></a>
 <a href="https://github.com/allysonbogo" title="GitHub"><img height="50" src="icons/Github-Dark.svg"></a>
 <a href="https://github.com/allysonbogo" title="Trello"><img height="50" src="icons/Trello.svg"></a>
