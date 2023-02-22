@@ -1,4 +1,4 @@
-<p align="center" style="max-width: 80%">
+<p align="center" style="max-width: 800">
   <img src="images/Greetings.gif" alt="Greetings Banner" /><hr>
 </p>
 
