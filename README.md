@@ -30,7 +30,7 @@ const aboutMe = {
 
 <p align="left">
   <a href="https://linkedin.com/in/allysonbogo" title="LinkedIn"><img height="50" src="icons/LinkedIn.svg"></a>
-  <a href="https://fb.com/allysonbogo" title="Facebook"><img height="50" src="icons/Facebook.svg"></a>
+  <a href="https://fb.com/allysonbogo" title="Facebook"><img height="50" src="icons/Facebook.png"></a>
   <a href="https://www.instagram.com/bogoallyson" title="Instagram"><img height="50" src="icons/Instagram.svg"></a>
 </p><hr>
 
@@ -43,10 +43,10 @@ const aboutMe = {
 <a href="https://github.com/allysonbogo" title="VSCode"><img height="50" src="icons/VSCode-Dark.svg"></a>
 
 <a href="https://github.com/allysonbogo" title="Jest"><img height="50" src="icons/Jest.svg"></a>
-<a href="https://github.com/allysonbogo" title="RTL"><img height="50" src="icons/RTL.svg"></a>
+<a href="https://github.com/allysonbogo" title="RTL"><img height="50" src="icons/RTL.png"></a>
 <a href="https://github.com/allysonbogo" title="Bootstrap"><img height="50" src="icons/Bootstrap.svg"></a>
 <a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/TailwindCSS-Dark.svg"></a>
-<a href="https://github.com/allysonbogo" title="ESLint"><img height="50" src="icons/ESLint.svg"></a>
+<a href="https://github.com/allysonbogo" title="ESLint"><img height="50" src="icons/ESLint.png"></a>
 
 <a href="https://github.com/allysonbogo" title="Git"><img height="50" src="icons/Git.svg"></a>
 <a href="https://github.com/allysonbogo" title="GitHub"><img height="50" src="icons/Github-Dark.svg"></a>
