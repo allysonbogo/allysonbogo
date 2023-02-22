@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="images/Greetings.gif" alt="Greetings Banner" /><hr>
+  <img style="max-width: 80%" src="images/Greetings.gif" alt="Greetings Banner" /><hr>
 </p>
 
 <img src="images/Pokemon.gif" alt="Pokemon Avatar"  align="right" width="15%" />
