@@ -1,7 +1,7 @@
-<img src="images/Pokemon.gif" alt="Pokemon Avatar" align="right" width="12%" />
+
+<img src="images/Pokemon.gif" alt="Pokemon Avatar" align="right" width="15%" />
 
 # Allyson Belli Bogo
-
 
 [![LinkedIn Badge](https://img.shields.io/badge/Allyson%20Bogo-0077B5?style=round-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/allysonbogo/)](https://linkedin.com/in/allysonbogo/)
 [![Gmail Badge](https://img.shields.io/badge/ab.bogo@gmail.com-fd5050?style=round-square&logo=Gmail&logoColor=white&link=mailto:ab.bogo@gmail.com)](mailto:ab.bogo@gmail.com)
