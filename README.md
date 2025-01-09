@@ -1,15 +1,6 @@
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="text-align: left; vertical-align: middle;">
-      <h1 style="margin: 0;">Allyson Belli Bogo</h1>
-    </td>
-    <td style="text-align: right; vertical-align: middle;">
-      <img src="images/Pokemon.gif" alt="Pokemon Avatar" style="width: 15%; max-width: 150px; height: auto;" />
-    </td>
-  </tr>
-</table>
+# Allyson Belli Bogo
 
-</br>
+<img src="images/Pokemon.gif" alt="Pokemon Avatar" style="width: 20%; max-width: 150px; height: auto; margin: 1em auto; display: block;" />
 
 [![LinkedIn Badge](https://img.shields.io/badge/Allyson%20Bogo-0077b5?style=round-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/allysonbogo/)](https://linkedin.com/in/allysonbogo/)
 [![Gmail Badge](https://img.shields.io/badge/ab.bogo@gmail.com-fd5050?style=round-square&logo=Gmail&logoColor=white&link=mailto:ab.bogo@gmail.com)](mailto:ab.bogo@gmail.com)
