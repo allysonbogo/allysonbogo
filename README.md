@@ -1,73 +1,9 @@
-<p align="center">
-  <img src="images/Greetings.gif" alt="Greetings Banner" /><hr>
-</p>
+# Allyson Belli Bogo
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://linkedin.com/in/allysonbogo/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/)](mailto:ab.bogo@gmail.com)
 <img src="images/Pokemon.gif" alt="Pokemon Avatar" align="right" width="15%" />
 
-```js
-const aboutMe = {
-  name: 'Allyson Belli Bogo',
-  age: '32',
-  rank: 'Web Developer',
-  country: 'Brazil',
-  softSkills: [
-    'communication',
-    'teamwork',
-    'self-management',
-    'resilience',
-  ],
-};
-```
 <hr>
 
-- 📖 I’m currently studying **Full Stack Web Development** at **Trybe**
-
-- 📫 Fell free to contact me at **ab.bogo@gmail.com**
-
-<hr>
-
-<h3 align="left">Where to find me?</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/allysonbogo" title="LinkedIn"><img height="50" src="icons/LinkedIn.svg"></a>
-  <a href="https://fb.com/allysonbogo" title="Facebook"><img height="50" src="icons/Facebook.png"></a>
-  <a href="https://www.instagram.com/bogoallyson" title="Instagram"><img height="50" src="icons/Instagram.svg"></a>
-</p><hr>
-
-<h3 align="left">My toolbox</h3>
-
-<div>Coding:</div>
-  <a href="https://github.com/allysonbogo" title="JavaScript"><img height="50" src="icons/JavaScript.svg"></a>
-  <a href="https://github.com/allysonbogo" title="HTML"><img height="50" src="icons/HTML.svg"></a>
-  <a href="https://github.com/allysonbogo" title="NodeJS"><img height="50" src="icons/NodeJS-Dark.svg"></a>
-  <a href="https://github.com/allysonbogo" title="React"><img height="50" src="icons/React-Dark.svg"></a>
-  <a href="https://github.com/allysonbogo" title="ESLint"><img height="50" src="icons/ESLint.png"></a>
-  <a href="https://github.com/allysonbogo" title="VSCode"><img height="50" src="icons/VSCode-Dark.svg"></a>
-
-<div>Styling:</div>
-<a href="https://github.com/allysonbogo" title="CSS"><img height="50" src="icons/CSS.svg"></a>
-<a href="https://github.com/allysonbogo" title="Bootstrap"><img height="50" src="icons/Bootstrap.svg"></a>
-<a href="https://github.com/allysonbogo" title="Tailwind"><img height="50" src="icons/TailwindCSS-Dark.svg"></a>
-
-<div>Testing:</div>
-<a href="https://github.com/allysonbogo" title="Jest"><img height="50" src="icons/Jest.svg"></a>
-<a href="https://github.com/allysonbogo" title="RTL"><img height="50" src="icons/RTL.png"></a>
-
-<div>Designing:</div>
-<a href="https://github.com/allysonbogo" title="Figma"><img height="50" src="icons/Figma-Dark.svg"></a>
-<a href="https://github.com/allysonbogo" title="Photoshop"><img height="50" src="icons/Photoshop.svg"></a>
-<a href="https://github.com/allysonbogo" title="CorelDraw"><img height="50" src="icons/CorelDraw.png"></a>
-
-<div>Teaming:</div>
-<a href="https://github.com/allysonbogo" title="Git"><img height="50" src="icons/Git.svg"></a>
-<a href="https://github.com/allysonbogo" title="GitHub"><img height="50" src="icons/Github-Dark.svg"></a>
-<a href="https://github.com/allysonbogo" title="Trello"><img height="50" src="icons/Trello.svg"></a>
-
-<!--
-<h3 align="left">Stats</h3>
-
-<a href="https://github.com/allysonbogo">
-  <img height="12rem" src="https://github-readme-stats.vercel.app/api?username=allysonbogo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonbogo&layout=compact&langs_count=7&theme=algolia"/>
-</a>
--->
+Software Engineer passionate about development and data analysis, with over 2 years of experience in building data-driven applications and solutions, skilled in Back-End technologies such as Node.js, TypeScript, and Python, Cloud services like GCP and AWS, as well as SQL and NoSQL databases. Solid experience working in multidisciplinary teams using agile methodologies like Scrum and Kanban, and best practices such as Clean Code, SOLID, and TDD.
