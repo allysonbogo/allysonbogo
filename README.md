@@ -1,7 +1,13 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1 style="margin: 0;">Allyson Belli Bogo</h1>
-  <img src="images/Pokemon.gif" alt="Pokemon Avatar" style="width: 15%; max-width: 150px; height: auto;" />
-</div>
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="text-align: left; vertical-align: middle;">
+      <h1 style="margin: 0;">Allyson Belli Bogo</h1>
+    </td>
+    <td style="text-align: right; vertical-align: middle;">
+      <img src="images/Pokemon.gif" alt="Pokemon Avatar" style="width: 15%; max-width: 150px; height: auto;" />
+    </td>
+  </tr>
+</table>
 
 </br>
 
